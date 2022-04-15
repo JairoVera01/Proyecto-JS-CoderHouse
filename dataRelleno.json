@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1, "relleno": "dulce de leche", "adicional": 0
+    },
+    {
+        "id": 2, "relleno": "chocolate amargo", "adicional": 1
+    },
+    {
+        "id": 3, "relleno": "manjar", "adicional": 0
+    }
+]

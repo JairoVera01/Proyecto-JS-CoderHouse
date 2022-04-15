@@ -1,0 +1,17 @@
+[
+    {
+        "id": 1, "nombre": "Alfajor Tradicional", "precio": "12", "urlImg": "assets/img/foto_1.jpg"
+    },
+    {
+        "id": 2, "nombre": "Alfajor Cacao", "precio": "15" , "urlImg": "assets/img/foto_2.jpg"
+    },
+    {
+        "id": 3, "nombre": "Alfajor Mixto", "precio": "13" , "urlImg": "assets/img/foto_3.jpg"
+    },
+    {
+        "id": 4, "nombre": "Alfajor Chocolate", "precio": "15" , "urlImg": "assets/img/foto_4.jpg"
+    },
+    {
+        "id": 5, "nombre": "Alfajor Marmoleado", "precio": "16" , "urlImg": "assets/img/foto_5.jpg"
+    }
+]
